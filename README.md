@@ -1,6 +1,6 @@
 # `$ whoami`
 
-Name's Bytewave. Or Eliot, pick your poison. I make things and break things... ~~mostly break things~~.
+Hey there! My name's Bytewave, Byte, or Eliot. I make things and break things... ~~mostly break things~~.
 
 I'm currently a university student studying Computer Science. One of these days, I hope to go into infosec... we'll see how that ends up.
 
