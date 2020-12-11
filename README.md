@@ -16,4 +16,4 @@ If you're a recruiter who's stumbled across my profile, I'm looking for work! If
 
 ## `$ gh stats`
 
-[![BytewaveMLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=BytewaveMLP)](https://github.com/anuraghazra/github-readme-stats)
+[![BytewaveMLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=BytewaveMLP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
