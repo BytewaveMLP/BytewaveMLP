@@ -12,7 +12,7 @@ Check out [my homepage](https://code.horse). There, you can find my social links
 
 ## `$ cat employment.md`
 
-If you're a recruiter who's stumbled across my profile, I'm looking for work! If you'd like to contact me, you can find my primary contact email off to the left. I'm proficient in TypeScript and Node.js, and experienced in lots of other languages, including C#, Java, Python, and PHP. As stated previously, I'm also pursuing a career in information security, so cybersecurity internships are also welcome. Thanks for taking the time to visit! 💚
+As of August 2021, I am no longer looking for work at this time.
 
 ## `$ gh stats`
 
